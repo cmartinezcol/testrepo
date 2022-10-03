@@ -1,4 +1,4 @@
-# This is other python file
+# This is the recursive hanoi solution in python
 def hanoi(n, A, B, C):
     ############################################################
     # 1) If n is not equal to 1, then compute HANOI(n-1,A,C,B).
